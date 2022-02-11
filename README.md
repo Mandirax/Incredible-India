@@ -1,2 +1,2 @@
 # Incredible-India
-Incredible India is an infotainment web application which has information about India. It helps user to explore India in easy and interesting way. 
+Incredible India is an infotainment web application developed using HTML, CSS and JavaScript .It has information about India. It helps user to explore India in easy and interesting way. 
